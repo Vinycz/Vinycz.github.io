@@ -1,0 +1,32 @@
+body{
+    background-color: #333;
+    color: white;
+    margin: 10px;
+}
+
+.perfil{
+    display: flex;
+}
+
+.imagem{
+    height: 360px;
+    width: 360px;
+    border-radius: 100%;
+    border: 5px white solid;
+}
+
+.hadder{
+    display:flex; 
+    background-color: red;
+    margin-top: 50px;
+    justify-content: space-between;
+}
+
+.name{
+    font-size: 75px;
+    margin-top: 0px;
+}
+
+.lastname{
+    font-size: 85px;
+}
